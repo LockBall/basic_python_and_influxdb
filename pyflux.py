@@ -1,3 +1,5 @@
+#John Lutz
+# 02 Oct 20223
 print("\npython influx test")
 
 import os;
